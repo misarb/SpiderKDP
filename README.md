@@ -1,4 +1,4 @@
-![](Screenshot/logo_desktop.png)  #SpiderKDP  ![](Screenshot/logo_desktop.png) 
+# SpiderKDP   ![](Screenshot/logo_desktop.png) 
 
 ![](Screenshot/cover.png)
 
