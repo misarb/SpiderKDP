@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logowst">
+    <file>logo.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="dahsboard_icon">
+    <file>dashboard.png</file>
+  </qresource>
+</RCC>

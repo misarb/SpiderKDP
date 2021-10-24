@@ -1,0 +1,15 @@
+2021/01/06-15:39:55.855 85c Reusing MANIFEST C:\Users\misar\Desktop\Python project\spiderKdp\chrome-data\Default\IndexedDB\https_kdp.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/06-15:39:55.868 85c Recovering log #27
+2021/01/06-15:39:55.869 85c Reusing old log C:\Users\misar\Desktop\Python project\spiderKdp\chrome-data\Default\IndexedDB\https_kdp.amazon.com_0.indexeddb.leveldb/000027.log 
+2021/01/06-15:40:00.904 33e0 Level-0 table #32: started
+2021/01/06-15:40:00.954 33e0 Level-0 table #32: 951 bytes OK
+2021/01/06-15:40:01.089 33e0 Delete type=0 #27
+2021/01/06-15:40:01.089 33e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/06-15:40:01.089 33e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\xb0H\xac\x85mwB\x00\x01\x14\x00Q\x003\x002\x00H\x00K\x00E\x00F\x00T\x00Y\x00D\x00C\x00X\x006\x003\x006\x007\x007\x00E\x003\x00A' @ 221 : 1
+2021/01/06-15:40:01.090 33e0 Compacting 1@1 + 1@2 files
+2021/01/06-15:40:01.169 33e0 Generated table #33@1: 25 keys, 731 bytes
+2021/01/06-15:40:01.169 33e0 Compacted 1@1 + 1@2 files => 731 bytes
+2021/01/06-15:40:01.214 33e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/06-15:40:01.215 33e0 Delete type=2 #29
+2021/01/06-15:40:01.215 33e0 Delete type=2 #32
+2021/01/06-15:40:01.229 33e0 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\xb0H\xac\x85mwB\x00\x01\x14\x00Q\x003\x002\x00H\x00K\x00E\x00F\x00T\x00Y\x00D\x00C\x00X\x006\x003\x006\x007\x007\x00E\x003\x00A' @ 221 : 1 .. (end); will stop at (end)
