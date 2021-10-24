@@ -15,11 +15,11 @@ When you do all the step to install the software you need to Export the excel Fi
 
 ## Settings
   
-o	Number of Tabs: specify how much number you want to open in the Browser to let the Software upload for you
-o	Max Upload: is how much you need to upload from the Excel fille you need to choose a number less than the number in the Excel file
-o	Shutdown: Yes, if you want your machine close when the upload end
-o	Publish Draft: choice if you want to publish or just when the upload end saves it in the draft
-o	The author setting it depend on what you want to do it in the upload
+--> Number of Tabs: specify how much number you want to open in the Browser to let the Software upload for you.    
+--> Max Upload : is how much you need to upload from the Excel fille you need to choose a number less than the number in the Excel  
+--> Shutdown : Yes, if you want your machine close when the upload end.                             
+--> Publish Draft : choice if you want to publish or just when the upload end saves it in the draft
+The author setting it depend on what you want to do it in the upload.
 
 # SpiderKDP  
 ![](Screenshot/logo_desktop.png) 
