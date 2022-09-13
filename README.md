@@ -2,7 +2,9 @@
 ![](Screenshot/cover.png)
 
  ## Description
-SpiderKDP v1.0 is a software for automation KDP (kindle Direct publisher) that help you to publish cover automatically, you can fully automate your uploads to Kindle Direct Publishing for Paperback Books.
+ ![main page](Screenshot/First_Page.png)
+ 
+`SpiderKDP v1.0` is a software for automation KDP (kindle Direct publisher) that help you to publish cover automatically, you can fully automate your uploads to Kindle Direct Publishing for Paperback Books.
 It’s as easy as placing your data in a spreadsheet, adjusting your settings, and clicking Lunch.
 And manually uploading No Content and Low Content books to Kindle Direct Publishing is extremely time consuming.
 
