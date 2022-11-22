@@ -23,6 +23,15 @@ When you do all the step to install the software you need to Export the excel Fi
 4- `Publish Draft :`  choice if you want to publish or just when the upload end saves it in the draft
 The author setting it depend on what you want to do it in the upload.
 
+## Contributing
+
+* Contributions are always welcome!
+* make a PR
+
+## TO DO
+- [ ] Add Documentation
+- [ ] more feature to the software
+ 
 # SpiderKDP  
 ![](Screenshot/logo_desktop.png) 
 
