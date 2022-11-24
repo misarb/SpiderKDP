@@ -2,7 +2,9 @@ from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 import sys
-from PyQt5.uic import loadUiType
+
+from PyQt5 import uic
+from os import path
 import tkinter as tk
 from tkinter import filedialog
 import pickle as pk
@@ -13,6 +15,8 @@ import glob
 import time
 import random
 import json
+
+from PyQt5 import uic
 from fake_useragent import UserAgent
 from random import randint
 from selenium import webdriver
@@ -91,7 +95,7 @@ column_price=18
 
 
 
-ui, _ = loadUiType('spiderkdp.ui')
+ui, _ = uic.loadUiType(path.join(path.dirname(__file__), "spiderkdp.ui"))
 
 
 class MainApp(QMainWindow, ui):
