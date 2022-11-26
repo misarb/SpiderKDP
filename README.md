@@ -25,8 +25,8 @@ The author setting it depend on what you want to do it in the upload.
 
 ## Contributing
 
-* Contributions are always welcome!
-* make a PR
+read [contribution guidelines](https://github.com/misarb/SpiderKDP/blob/master/CONTRIBUTING.md)
+
 
 ## TO DO
 - [ ] Add Documentation
