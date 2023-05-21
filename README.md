@@ -36,6 +36,9 @@ read [contribution guidelines](https://github.com/misarb/SpiderKDP/blob/master/C
 ![](Screenshot/logo_desktop.png) 
 
 # Contact
-E-mail : lahcen.boulbalah@gmail.com
-Website : www.spiderkdp.com
 
+E-mail : lahcen.boulbalah@gmail.com
+Website : [www.spiderkdp.com](https://spiderkdp.blogspot.com/)
+
+# author
+@misarb
