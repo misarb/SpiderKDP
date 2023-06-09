@@ -38,6 +38,7 @@ read [contribution guidelines](https://github.com/misarb/SpiderKDP/blob/master/C
 # Contact
 
 E-mail : lahcen.boulbalah@gmail.com
+E-mail : badrenanna2020@gmail.com
 Website : [www.spiderkdp.com](https://spiderkdp.blogspot.com/)
 
 # author
